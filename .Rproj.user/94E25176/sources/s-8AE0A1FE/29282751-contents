@@ -1,0 +1,43 @@
+---
+title: "(Informal) Statistics Research Induction"
+author: "Emi Tanaka"
+date: "Last Updated: `r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Expectations
+
+A common misconception is that a supervisor drives your research or explains what you do. The term "supervisor" probably doesn't help and the term "advisor" used in US more aligns with what is expected from a supervisor. This means that supervisor is there to provide you *guidance* but the person who drives the research and the work is *you*.
+
+## Knowledge
+
+I expect that you know `R` and some statistical modelling. Great if you know how to use R-Markdown and LaTeX; if not it is expected that you learn quickly. 
+
+# Requirements
+
+It is expected that you have your own computer with admin access. If you do not and would like one supplied to you, please contact our Computer Systems Manager, Paul Szabo, (paul.szabo@sydney.edu.au).
+
+You should have:
+
+* Latest [R](https://www.r-project.org/). 
+* Latest [RStudio](https://www.rstudio.com/).
+* [LaTeX](https://www.latex-project.org/get/).
+
+You will need additional R packages including (but not limited to): `tidyverse` (or `ggplot2` and `dplyr`), `agridat`, `lme4`, and `rmarkdown`.
+
+
+# Thesis Template
+
+It is preferred that you use the template from  [here](https://github.com/emitanaka/SydneyThesisTemplate).
+
+# Feedback
+
+Any comments or questions, do contact Emi at dr.emi.tanaka@gmail.com.

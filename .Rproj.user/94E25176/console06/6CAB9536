@@ -1,0 +1,10 @@
+]0;~/Dropbox (Personal)/Website/Research[?1034h
+[38;5;135memi [0mat [38;5;166mEmis-MBP [0min [38;5;118m~/Dropbox (Personal)/Website/Research
+[0m$ [K[0m$ git init
+Initialized empty Git repository in /Users/emi/Dropbox (Personal)/Website/Research/.git/
+]0;~/Dropbox (Personal)/Website/Research
+[38;5;135memi [0mat [38;5;166mEmis-MBP [0min [38;5;118m~/Dropbox (Personal)/Website/Research
+[0m$ git git remote add origin https://github.com/emitanaka/induction.git[C[1P[1P[1P[1P
+]0;~/Dropbox (Personal)/Website/Research
+[38;5;135memi [0mat [38;5;166mEmis-MBP [0min [38;5;118m~/Dropbox (Personal)/Website/Research
+[0m$ git push [K[K[K[K[Kadd . 
