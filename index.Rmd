@@ -12,14 +12,21 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Welcome to the world of research! It will be challenging but hopefully rewarding and give you a better idea of what research is all about. 
 
 # Expectations
 
-A common misconception is that a supervisor drives your research or explains what you do. The term "supervisor" probably doesn't help and the term "advisor" used in US more aligns with what is expected from a supervisor. This means that supervisor is there to provide you *guidance* but the person who drives the research and the work is *you*.
+A common misconception perhaps is that a supervisor drives your research and explains what you do. *Research is different to course work*. There is no set pathway. The supervisor is there to provide you *guidance* but the person who drives the research and the work is *you*. In other words, it is expected that you are **proactive in your work**. 
 
-## Knowledge
+The supervisor has experience and some understanding of your topic but will not necessary have the answer to all your questions (if they do then it's not research). As you get familiar with the topic, you should be able to explain to the supervisor about your topic (not the other way around). 
+
+### Knowledge
 
 I expect that you know `R` and some statistical modelling. Great if you know how to use R-Markdown and LaTeX; if not it is expected that you learn quickly. 
+
+### Meeting
+
+We would normally meet once a week for about an hour. Even if you do not have anything done or to report, we should meet. If you require to meet more then I prefer that we schedule this rather than you drop-in without schedule.
 
 # Requirements
 
