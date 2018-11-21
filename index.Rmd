@@ -22,7 +22,7 @@ The supervisor has experience and some understanding of your topic but will not 
 
 ### Knowledge
 
-I expect that you know `R` and some statistical modelling. Great if you know how to use R-Markdown and LaTeX; if not it is expected that you learn quickly. 
+I expect that you know `R` and some statistical modelling. Great if you know how to use R-Markdown and LaTeX; if not it is expected that you learn quickly. It is advisable to learn how to use [BibTeX](https://blog.mendeley.com/2011/10/25/howto-use-mendeley-to-create-citations-using-latex-and-bibtex/) for reference citations.
 
 ### Meeting
 
@@ -37,6 +37,8 @@ You should have:
 * Latest [R](https://www.r-project.org/). 
 * Latest [RStudio](https://www.rstudio.com/).
 * [LaTeX](https://www.latex-project.org/get/).
+* Get [Mendeley](https://www.mendeley.com) for reference management. 
+
 
 You will need additional R packages including (but not limited to): `tidyverse` (or `ggplot2` and `dplyr`), `agridat`, `lme4`, and `rmarkdown`.
 
