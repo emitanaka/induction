@@ -42,6 +42,9 @@ You should have:
 
 You will need additional R packages including (but not limited to): `tidyverse` (or `ggplot2` and `dplyr`), `agridat`, `lme4`, and `rmarkdown`.
 
+# Coding Style
+
+You are recommended to follow the style guide outlined [here](https://style.tidyverse.org). In particular, the [`styler`](http://styler.r-lib.org/) package adds an excellent RStudio addin to reformat your code easily. 
 
 # Thesis Template
 
